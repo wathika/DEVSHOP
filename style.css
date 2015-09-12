@@ -3,6 +3,10 @@ html, body {
   padding: 0;
 }
 
+.header {
+    background-color: #333333;
+}
+
 .container {
   max-width: 940px;
   margin: 0 auto;
